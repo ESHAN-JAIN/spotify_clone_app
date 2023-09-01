@@ -1,7 +1,5 @@
 # Spotify Clone App
-[[Demo Link](https://allnewspotify.netlify.app/)]<br>
-![ezgif-1-f6040a3c25](https://github.com/newsid2024/Spotify_clone_/assets/108874631/73bf367a-a2bb-4627-b773-2120ef0e6e32)
-
+[[Demo Link](https://allnewspotify.netlify.app/)]
 ## Description
 
 This is a Spotify clone app that aims to replicate some of the features and design of the official Spotify application. It provides a user-friendly interface for browsing and playing music, creating playlists, and discovering new tracks.
